@@ -34,8 +34,6 @@ Olá! Me chamo Araujo, sou estudante do curso técnico em **Análise e Desenvolv
 
 -----
 
-## 📊 GitHub Stats
-
 <div align="center">
   
 </div>
@@ -50,7 +48,7 @@ estudante = {
     "foco":         "Back-End Development",
     "tecnologias":  ["Python", "HTML", "CSS", "JavaScript"],
     "objetivo":     "Crescer como desenvolvedor e contribuir com projetos reais",
-    "status":       "Estudando e codando todos os dias 💻"
+    "status":       "Estudando todos os dias 💻"
 }
 ```
 
@@ -58,7 +56,7 @@ estudante = {
 
 <div align="center">
 
-*“Cada linha de código é um passo a mais na jornada.”*
+*“Isaias 60:22”*
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fb-bb)
 
