@@ -11,7 +11,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá! Me chamo Araujo, sou estudante do curso técnico em **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento **Back-End**. Estou construindo minha base sólida em programação e apaixonado por resolver problemas através do código.
+Olá! Me chamo Araujo, sou estudante do curso técnico em **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento **Back-End**. Estou construindo minha base sólida em programação.
 
 - 🎓 **Curso:** Técnico em Análise e Desenvolvimento de Sistemas
 - 🔭 Atualmente aprendendo e praticando desenvolvimento Back-End
